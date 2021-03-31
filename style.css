@@ -1,0 +1,42 @@
+body{
+text-align: center;
+background-color: linear-gradient(#CCFFFF 0%, #FFFF99 100%);
+}
+img{
+border-radius: 50%;
+width: 200px;
+text-align:center;
+}
+#h1-_-{
+text-shadow:2px 2px #99CCFF;
+}
+#name{
+text-shadow:2px 2px #99CCFF;
+}
+p{
+font-size:18px;
+color: #000099;
+background-color:#CC99FF;
+}
+.menu{
+list-style:none;
+font-family:cursive;
+top:10px;
+right:30;
+cursor:pointer;
+color:black;
+}
+.link{
+float:left;
+color:#ffffff;
+padding-top:5px;
+padding-right:9px;
+padding-left:9px;
+padding-bottom:5px;
+font-family:fantasy;
+font-size:20px;
+color:darkmagenta;
+}
+.link:hover{
+background-color:#a3fff7;
+}
